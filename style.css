@@ -13,7 +13,7 @@ body {
 
 .wrapper {
     height: 100vh;
-    background: url(/img/43730585.jpg) no-repeat center / cover;
+    background: url(img/43730585.jpg) no-repeat center / cover;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -31,7 +31,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
-    background: url(/img/фон4.jpg);
+    background: url(img/фон4.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     margin-left: 200px;
